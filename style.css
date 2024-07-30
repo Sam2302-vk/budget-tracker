@@ -1,0 +1,37 @@
+.container{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    background-color: rgb(194, 228, 217);
+}
+div{
+    margin-top: 10px;
+}
+table th{
+    border: 2px solid black;
+    padding: 10px;
+}
+td{
+    border: 2px solid black;
+    padding: 10px;
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    background-color: rgb(239, 222, 201);
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    
+}
